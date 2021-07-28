@@ -7,6 +7,8 @@
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
 
 body {
+    background-color: blue;
+    background-color: yellow;
     background-color: lightblue;
     background-color: yellow;
 }

@@ -7,7 +7,11 @@
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
 
 body {
+<<<<<<< HEAD
+  background-color: lightblue;
+=======
     background-color: yellow;
+>>>>>>> feature/preethi
 }
 
 .page-header {

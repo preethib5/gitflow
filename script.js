@@ -1,5 +1,3 @@
-//
-
 const poems = [{
         author: "Cece",
         poem: "Roses are red \n Violets are blue \n Sunflowers are yellow \n I bet you were expecting something romantic but no -- these are just gardening facts.",
@@ -19,6 +17,11 @@ const poems = [{
         author: "preethi",
         poem: `I wandered lonely as a cloud That floats on high o'er vales and hills, When all at once I saw a crowd, A host, of golden daffodils;`,
         image: "./yellow.jpeg",
+    }, ,
+    {
+        author: "Matt",
+        poem: "Rub a dub dub",
+        image: "bee.jpeg",
     },
     {
         author: "Charles M.Schulz",

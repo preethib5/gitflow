@@ -25,6 +25,11 @@
           image: "bee.jpeg",
       },
       {
+          author: "Charles M.Schulz",
+          poem: "Life is like a ten speed bicycle. Most of us have gears we never use",
+          image: "bicycle.jpeg",
+      },
+      {
           author: "Sean",
           poem: "O Captain! My Captain! our fearful trip is done \n The ship has weather'd every rack, the prize we sought is won \n The port is near, the bells I hear, the people all exulting,",
           image: "deadpoetssociety.jpeg",
